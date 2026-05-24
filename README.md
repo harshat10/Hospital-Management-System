@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040106
+# Name: HARSHAT G 
+# Date: 18/05/26
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1263" height="1031" alt="WhatsApp Image 2026-05-16 at 9 53 31 AM" src="https://github.com/user-attachments/assets/c386bedb-3f16-4ee9-bcb1-7243bd493211" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1262" height="1035" alt="WhatsApp Image 2026-05-16 at 9 53 31 AM (1)" src="https://github.com/user-attachments/assets/2213ac4f-7018-4aa0-b1af-352ec5e4fc00" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1920" height="1200" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/efceaffe-dac5-40dd-b06c-27170be5b298" />
 
 
 # PACKAGE DIAGRAM:
@@ -82,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1259" height="1036" alt="WhatsApp Image 2026-05-16 at 9 53 31 AM (2)" src="https://github.com/user-attachments/assets/01556cc7-118c-4088-9f81-554d644ff4a9" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1148" height="919" alt="hos5" src="https://github.com/user-attachments/assets/4a0ff240-a929-4e1a-92ef-97f31039e388" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1162" height="936" alt="hos6" src="https://github.com/user-attachments/assets/06d27164-5171-42a1-ac2e-33d9a660f3ae" />
 
 
 
